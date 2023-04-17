@@ -1,0 +1,19 @@
+# hexo robots.txt
+User-agent: * Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /about/
+Allow: /link/
+Allow: /messageboard/
+Allow: /myself/
+Allow: /archives/
+Allow: /page/
+Allow: /pan/
+Allow: /tags/
+Disallow: /cdn/
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+Sitemap: https://landv.cn/baidusitemap.xml
+Sitemap: https://landv.cn/sitemap.txt
+Sitemap: https://landv.cn/sitemap.xml
